@@ -13,7 +13,7 @@ ImageSeeker is a simple AI vision chatbot with:
 ```bash
 python -m venv .venv
 # Windows
-.\.venv\Scripts\activate
+./.venv/Scripts/activate
 # macOS/Linux
 # source .venv/bin/activate
 
